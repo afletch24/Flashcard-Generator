@@ -1,0 +1,1 @@
+{"front":"sup?","back":"nm","type":"basic"};{"front":"What is the best state is in the USA?","back":"Wisconsin duh","type":"basic"};{"front":"What is the best snack?","back":"cheese curds","type":"basic"};{"front":"What is the best Univeristy of all time?","back":"Univeristy of Wisconsin -Madison","type":"basic"};
