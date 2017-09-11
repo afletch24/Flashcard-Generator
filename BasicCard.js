@@ -1,4 +1,3 @@
-console.log("basic card  has loaded");
 var fs = require("fs");
 
 var BasicCard = function(front, back){
@@ -15,7 +14,7 @@ var BasicCard = function(front, back){
             if (error) {
                 console.log(error);
             }
-            console.log("New card added!");
+            console.log("New Basic card added!");
         });
     };
 
